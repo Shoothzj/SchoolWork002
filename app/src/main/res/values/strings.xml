@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SH003</string>
+    <string name="action_settings">Settings</string>
+    <string name="score">Score</string>
+</resources>
